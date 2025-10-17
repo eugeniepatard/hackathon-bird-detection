@@ -12,3 +12,4 @@ torchvision
 tensorflow
 mlflow
 opencv-python
+ipykernel
