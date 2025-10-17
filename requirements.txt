@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+tqdm
+pathlib
+librosa
+torchaudio
+torch
+torchvision
+tensorflow
+mlflow
+opencv-python
